@@ -67,6 +67,6 @@ public LocalTime withSecond(int second) {
 
 # References
 
-https://stackoverflow.com/questions/56278814/what-is-primitive-interface-method-in-java
+[https://stackoverflow.com/questions/56278814/what-is-primitive-interface-method-in-java](https://stackoverflow.com/questions/56278814/what-is-primitive-interface-method-in-java)
 
-- 포함 링크: https://riehle.org/computer-science/industry/2000/jr-2000-method-properties.pdf
+- 포함 링크: [https://riehle.org/computer-science/industry/2000/jr-2000-method-properties.pdf](https://riehle.org/computer-science/industry/2000/jr-2000-method-properties.pdf)
